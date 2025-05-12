@@ -195,13 +195,13 @@ Introducing our AI-powered chatbot, your virtual agricultural assistant. Have qu
 
 <br>
 
-## License 🪪
+<!-- ## License 🪪
 [MIT license](https://opensource.org/license/mit/)
 
 ## Thanks to all the contributors❤️
 <a href="https://github.com/Suchitra-Sahoo/AgriLearnNetwork/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Suchitra-Sahoo/AgriLearnNetwork" />
-</a>
+</a> -->
 
 "# AgroLearnNetwork-Project" 
 "# AgroLearnNetwork-Project" 
